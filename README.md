@@ -1,6 +1,5 @@
 # InstaBot
-##InstaBot1
-Webscrapping Instagram using Selenium and BeautifulSoup.Automate scrapping of instagram pages using python
+## InstaBot1
 Login into Instagram Handle and Searching and Opening a profile
 Type for “food” in search bar and print all the names of the Instagram Handles that are displayed in list after typing “food”
 Like/Unlike posts
